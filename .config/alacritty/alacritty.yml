@@ -1,0 +1,24 @@
+font:
+  offset:
+    x: 0
+    y: -2
+  normal:
+    family: monospace
+    style: Regular
+
+  bold:
+    family: monospace
+    style: Bold
+
+  italic:
+    family: monospace
+    style: Italic
+
+  bold_italic:
+    family: monospace
+    style: Bold Italic
+
+  size: 11
+
+window:
+  opacity: 0.9
